@@ -16,6 +16,10 @@ I'm a final year **Mechatronic Engineering (Honours)** and **Finance** student a
 
 ### Education
 - **BEng (Mechatronic) (Honours)** — University of Sydney  
-- **Bachelor of Commerce (Finance major)** — University of Sydney  
+- **Bachelor of Commerce (Finance major)** — University of Sydney
+
 ### 📍 Location
 Sydney, Australia
+
+### Connect with me
+- [LinkedIn](www.linkedin.com/in/bill-athanassiou-8a3961268)
