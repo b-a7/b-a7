@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey 👋 I'm Bill Athanassiou
 
-<!--
-**b-a7/b-a7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+I'm a final year **Mechatronic Engineering (Honours)** and **Finance** student at the **University of Sydney** focused on systems at the intersection of software, hardware, and product design, with an interest in building data driven software that support real-world decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m working on
+- Building full-stack projects using **Python**, **REST APIs**, and relational databases
+- Applying AI-assisted tools to data processing and backend workflows
+- Developing practical experience beyond coursework
+  
+### Technical Interests
+- Backend development & API design  
+- Data analysis and system reliability  
+- Software architecture and maintainable code  
+
+### Education
+- **BEng (Mechatronic) (Honours)** — University of Sydney  
+- **Bachelor of Commerce (Finance major)** — University of Sydney  
+### 📍 Location
+Sydney, Australia
