@@ -22,6 +22,6 @@ I'm a final year **Mechatronic Engineering (Honours)** and **Finance** student a
 Sydney, Australia
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bill-athanassiou-8a3961268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bill-athanassiou-8a3961268)
 
 
